@@ -11,3 +11,5 @@ __pycache__/
 
 # Gelecekte eklenebilecek gizli dosyalar
 .env
+
+.azure/
