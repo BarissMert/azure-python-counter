@@ -3,6 +3,8 @@ import psycopg2
 # Gerekli Flask modüllerini içe aktarıyoruz
 from flask import Flask, redirect, url_for, request
 
+#deneme
+
 # Uygulamayı oluştur
 app = Flask(__name__)
 
